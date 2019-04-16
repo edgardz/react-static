@@ -1,0 +1,10 @@
+# hidden folders
+.vscode
+.local
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# app
+node_modules
